@@ -1,4 +1,13 @@
-.container-fluid {
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid.custom-header {
   background-color: rgb(131, 108, 165);
   border-bottom-left-radius: 1rem;
   border-bottom-right-radius: 1rem;
@@ -6,4 +15,14 @@
 
 .nav-link {
   color: white;
+}
+
+.container.custom-main {
+  background-color: red;
+}
+
+.row.custom-row {
+  background-color: rgb(149, 88, 66);
+  text-align: center;
+  padding: 1rem;
 }
