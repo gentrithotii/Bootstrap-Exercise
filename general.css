@@ -17,10 +17,6 @@ body {
   color: white;
 }
 
-.container.custom-main {
-  background-color: red;
-}
-
 .row.custom-row {
   background-color: rgb(149, 88, 66);
   text-align: center;
