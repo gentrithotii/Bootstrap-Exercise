@@ -1,0 +1,9 @@
+.container-fluid {
+  background-color: rgb(131, 108, 165);
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.nav-link {
+  color: white;
+}
